@@ -1,9 +1,8 @@
 body{
   background: linear-gradient(white, purple);
+  align-items: center;
  }
  p {
   font-size: 40px;
   color:black
-
  }
- 
