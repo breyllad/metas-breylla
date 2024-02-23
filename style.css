@@ -1,13 +1,15 @@
 body {
-  background: linear-gradient(to right, #ffcc00, #ff3300);
-  margin: 0;
-  padding: 0;
+  background-color: #f0f0f0;
   font-family: Arial, sans-serif;
-  text-align: center;
-  color: #fff;
+  color: #333;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
-  margin-top: 150px;
-  font-size: 2em;
+  color: #0077cc;
+}
+
+p {
+  line-height: 1.6;
 }
