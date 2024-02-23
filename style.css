@@ -1,10 +1,13 @@
-.corpo{
-    background-color: rgb(228, 128, 145);
+body {
+  background: linear-gradient(to right, #ffcc00, #ff3300);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #fff;
 }
-.titulo{
-    font-size: 50px;color:aliceblue;background: pink; text-align: center;
-}
-.texto-imc{
-    font-size: 50px;
-    text-align: center;
+
+h1 {
+  margin-top: 150px;
+  font-size: 2em;
 }
