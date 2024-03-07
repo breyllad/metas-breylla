@@ -4,7 +4,7 @@
     --branco: #FFFFFF;
     --botao-ativo: #498e91;
     --botao-inativo: #6fcab480;
-    --texto-fundo: #08005a4d;
+    --texto-fundo: #b6b4cf4d;
     }
     body{
         background-color: var(--cor-de-fundo);
