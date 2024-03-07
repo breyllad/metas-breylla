@@ -1,10 +1,8 @@
-
-body{
-  background: linear-gradient(white, black);
-  align-items: center;
-  justify-content: center;
- }
- p {
-  font-size: 35px;
-  color:rgb(185, 163, 163)
- }
+:root {
+  --cor-de-fundo: #ffd1d1;
+  --verde: #734f96;
+  --branco: #FFFFFF;
+  --botao-ativo: #498e91;
+  --botao-inativo: #6fcab480;
+  --texto-fundo: #b6b4cf4d;
+}
