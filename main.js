@@ -9,7 +9,7 @@ for(let i=0; i <botoes.lenght; i++){
             texto[j].classList.remove("ativo");
         }
         botoes[i].classList.add("ativo");
-        testo[i].classList.add("ativo");
+        texto[i].classList.add("ativo");
     }
 }
 const tempoObjetivo1= new Date ("2025T00:00:00");
