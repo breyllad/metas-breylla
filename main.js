@@ -23,4 +23,5 @@ for(let i=0; i <botoes.lenght; i++){
     }
 }
 contadores[0].textContent = "contagem regressiva";
+const tempoObjetivo1= new Date (2025);
 
