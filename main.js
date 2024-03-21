@@ -9,7 +9,8 @@ for(let i=0; i<botoes.length; i++){
     botoes [i].classList.add("ativo");
     }
 const botoes = document.querySelectorAll(".botao");
-const texto = document.querySelectorAll(".aba-conteudo")
+const texto = document.querySelectorAll(".aba-conteudo");
+const contadores = document.querySelectorAll("contador");
 
 for(let i=0; i <botoes.lenght; i++){
     botoes[i].onclick = function(){
@@ -21,4 +22,5 @@ for(let i=0; i <botoes.lenght; i++){
         testo[i].classList.add("ativo");
     }
 }
+contadores[0].textContent = "contagem regressiva";
 
